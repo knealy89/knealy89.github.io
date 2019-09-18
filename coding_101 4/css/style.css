@@ -1,0 +1,12 @@
+body {
+  background-color: purple;
+  color: white;
+}
+
+#first-list {
+	background-color: lime;
+}
+
+.mammals {color:red;
+font-weight: gold;
+}
